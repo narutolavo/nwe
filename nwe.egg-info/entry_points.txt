@@ -1,0 +1,3 @@
+[gui_scripts]
+nwe = nwe:__main__
+
