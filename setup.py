@@ -7,7 +7,7 @@ with open('README.rst', 'rb') as file:
     
 setup(
     name='nwe',
-    version='1.0.0',
+    version='1.0.2',
     url='https://github.com/narutolavo/nwe',
     license='MIT License',
     author='Narutolavo',
@@ -16,7 +16,7 @@ setup(
     description='Criar Cartões do anki e pdf, do site News Web Easy ',
     long_description=readme,
     packages=['nwe'],
-    install_requires=['googletrans==4.0.0rc1', 'beautifulsoup', 'reportlab'],
+    install_requires=['googletrans==4.0.0rc1', 'beautifulsoup4', 'reportlab', 'requests'],
      entry_points={
         'gui_scripts': [
             'nwe = nwe:__main__',
