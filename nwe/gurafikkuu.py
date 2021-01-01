@@ -90,7 +90,7 @@ class Tela:
 
 	def gerarpdf(self):
 		self.barradeprogresso.stop()
-		Umupdf()
+		Umupdf(self.link)
 		self.textoaguarde["text"] = "Arquivo Pdf gerado..."
 
 	def cardanki(self):
