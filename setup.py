@@ -7,7 +7,7 @@ with open('README.rst', 'rb') as file:
     
 setup(
     name='nwe',
-    version='1.0.3',
+    version='1.0.4',
     url='https://github.com/narutolavo/nwe',
     license='MIT License',
     author='Narutolavo',
