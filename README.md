@@ -22,7 +22,7 @@ $ nwe
 Funcionamento
 -------------
 
-a partir do site [News Web Easy](https://www3.nhk.or.jp/news/easy/) , você pode ir nesse site e escolher um artigo, como esse do link de [exemplo](https://www3.nhk.or.jp/news/easy/k10012565291000/k10012565291000.html) copia essa url e insere em **insira o link:**, ai clicar no botão **iniciar**, espera a **barra de progresso** completar, logo depois desse processo, você já pode gerar o Pdf e o card do anki. Os **screenshot** apresenta mais detalhes.
+a partir do site [News Web Easy](https://www3.nhk.or.jp/news/easy/) , você pode ir nesse site e escolher um artigo, como esse do link de [exemplo](https://www3.nhk.or.jp/news/easy/k10012565291000/k10012565291000.html) copia essa url e insere em **insira o link:**, ai clicar no botão `iniciar`, espera a **barra de progresso** completar, logo depois desse processo, você já pode gerar o Pdf e o card do anki. Os **screenshot** apresenta mais detalhes.
 
 screenshot
 ==========
@@ -72,3 +72,6 @@ screenshot
 ![nwe10](https://user-images.githubusercontent.com/46381839/103252496-e6ebd980-495b-11eb-8b03-e3699d38a9d2.png)
 
 
+Video
+=====
+[![Youtube](https://i9.ytimg.com/vi/9JvkAPmdXoY/mq2.jpg?sqp=CKCMyP8F&rs=AOn4CLDC5h-DH8R_pybpgQVO-4uCIVTwog)](https://www.youtube.com/watch?v=9JvkAPmdXoY)
