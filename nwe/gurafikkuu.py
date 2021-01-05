@@ -14,6 +14,8 @@ class Tela:
 
 		self.nossatela = master
 
+		self.link = "https://www3.nhk.or.jp/news/easy/"
+
 		#self.coisa = tk.nomdedowidget(widgetpai. opçoesdeconfiguraçao)
 		self.nossatela.title("nwe")
 		self.nossatela.geometry("500x200+200+100")
