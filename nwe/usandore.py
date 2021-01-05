@@ -20,7 +20,7 @@ class Usarre:
 		for self.x in self.sspan:
 			self.ssjunta += self.x
 
-		self.resupalaa= re.sub(r'[rubyrtspan W m l"href" "id0002" "javascript:void(0)" "id0001" "colorC" "colorL" "__" \s]','-', self.ssjunta) 
+		self.resupalaa= re.sub(r'[abcdefghijklmnopqrstuvxywz ABCDEFGHIJKLMNOPQRSTUVXYWZ 0123456789 "__" "()" \s]','-', self.ssjunta) 
 
 		self.resultadoka=re.findall(r'----(\w+)',self.resupalaa) 
 	
